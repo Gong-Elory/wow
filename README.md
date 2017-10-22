@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+只是一个音乐播放器，不过未来的出场方式绝对特别。哈哈
 ## Build Setup
 
 ``` bash
